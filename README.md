@@ -53,8 +53,8 @@ Tela onde exibe os dados de um produto especifico (especificação, valor, avali
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?logo=react&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 
@@ -72,7 +72,8 @@ Tela onde exibe os dados de um produto especifico (especificação, valor, avali
 
 ### Designer
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Figma](https://img.shields.io/badge/draw.io-%002E3B.svg?style=for-the-badge&logo=draw.io&logoColor=white)
+![Drawio](https://img.shields.io/badge/draw.io-%23002E3B.svg?style=for-the-badge&logo=draw.io&logoColor=white)
+
 
 ### Testing
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
@@ -86,35 +87,35 @@ Tela onde exibe os dados de um produto especifico (especificação, valor, avali
 
 Marcos Araujo - [@linkedIn](https://www.linkedin.com/in/marcosaraujosouza/) - marcos.araso@hotmail.com
 
-Project Link: [Projeto_Base_Typescript](https://github.com/marcosaraujo-dev/Projeto_Base_Typescript)
+Project Link: [Projeto](https://github.com/marcosaraujo-dev/CGS.GamerStore)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Agradecimentos
-![FormacaoDev](https://img.shields.io/badge/FormacaoDev-blue)
-![Cod3r](https://img.shields.io/badge/Cod3r-red)
+![FormacaoDev](https://img.shields.io/badge/FormacaoDev-blue?style=for-the-badge)
+![Cod3r](https://img.shields.io/badge/Cod3r-red?style=for-the-badge)
 ![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
 
 
--   [XXXXXXX](https://XXXXXX/)
+-   [FormacaoDev](https://escola.formacao.dev/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/marcosaraujo-dev/Projeto_Base_Typescript.svg?style=for-the-badge
-[contributors-url]: https://github.com/marcosaraujo-dev/Projeto_Base_Typescript/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/marcosaraujo-dev/Projeto_Base_Typescript.svg?style=for-the-badge
-[forks-url]: https://github.com/marcosaraujo-dev/Projeto_Base_Typescript/network/members
-[stars-shield]: https://img.shields.io/github/stars/marcosaraujo-dev/Projeto_Base_Typescript.svg?style=for-the-badge
-[stars-url]: https://github.com/marcosaraujo-dev/Projeto_Base_Typescript/stargazers
-[issues-shield]: https://img.shields.io/github/issues/marcosaraujo-dev/Projeto_Base_Typescript.svg?style=for-the-badge
-[issues-url]: https://github.com/marcosaraujo-dev/Projeto_Base_Typescript/issues
-[license-shield]: https://img.shields.io/github/license/marcosaraujo-dev/Projeto_Base_Typescript.svg?style=for-the-badge
-[license-url]: https://github.com/marcosaraujo-dev/Projeto_Base_Typescript/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/marcosaraujo-dev/CGS.GamerStore.svg?style=for-the-badge
+[contributors-url]: https://github.com/marcosaraujo-dev/CGS.GamerStore/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/marcosaraujo-dev/CGS.GamerStore.svg?style=for-the-badge
+[forks-url]: https://github.com/marcosaraujo-dev/CGS.GamerStore/network/members
+[stars-shield]: https://img.shields.io/github/stars/marcosaraujo-dev/CGS.GamerStore.svg?style=for-the-badge
+[stars-url]: https://github.com/marcosaraujo-dev/CGS.GamerStore/stargazers
+[issues-shield]: https://img.shields.io/github/issues/marcosaraujo-dev/CGS.GamerStore.svg?style=for-the-badge
+[issues-url]: https://github.com/marcosaraujo-dev/CGS.GamerStore/issues
+[license-shield]: https://img.shields.io/github/license/marcosaraujo-dev/CGS.GamerStore.svg?style=for-the-badge
+[license-url]: https://github.com/marcosaraujo-dev/CGS.GamerStore/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marcosaraujosouza/
