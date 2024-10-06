@@ -20,7 +20,7 @@ export default function PaginaProduto(props: any) {
 
     return produto ? (
         <div className="flex flex-col gap-20">
-            <div className="flex flex-col gap-10">
+            <div className="flex flex-col gap-10 text-white">
                 <TituloProduto produto={produto} />
                 <InformacoesProduto produto={produto} />
                 <BannerCompra produto={produto} />
