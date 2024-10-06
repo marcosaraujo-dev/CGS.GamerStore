@@ -22,21 +22,17 @@ Projeto criado para aprendizagem da linguagem Typescript e React, seguindo aulas
 Com o intuito de aprendizado não foram feitas modificações nas funcionalidades além do que foi apresentado no treinamento.
 O intuito do projeto foi criar uma loja virtual de produtos Gamers
 
-<h4>Listagem de Produtos</h4>
-Tela inicial onde lista os produtos existentes na loja
-<p align="center>
-<img src="src/images/Demo/01-ListaProdutos.PNG" \>
-  </p>
-<br/>
 
-<h4>Detalhe de Produtos</h4>
-Tela onde exibe os dados de um produto especifico (especificação, valor, avaliações)
-<p align="center>
-<img src="src/images/Demo/02-DetalheProduto.PNG" \>
-  </p>
- <p align="center>
-<img src="src/images/Demo/03-Avaliacoes.PNG" \>
-  </p> 
+### Listagem de Produtos
+Tela inicial onde lista os produtos existentes na loja
+![Lista](images/Demo/01-ListaProdutos.PNG)
+
+### Detalhe de Produtos
+Tela onde exibe os dados de um produto específico (especificação, valor, avaliações)
+
+  ![detalhe](images/Demo/02-DetalheProduto.PNG)
+  ![Avaliacao](images/Demo/03-Avaliacoes.PNG)
+
 <br/>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
