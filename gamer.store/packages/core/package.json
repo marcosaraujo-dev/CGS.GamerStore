@@ -1,6 +1,7 @@
 {
     "name": "@gstore/core",
-    "version": "1.0.0",
+    "version": "0.0.1",
+    "description": "",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
@@ -11,9 +12,7 @@
     "keywords": [],
     "author": "Marcos Araujo de Souza",
     "license": "ISC",
-    "description": "",
     "devDependencies": {
-        "jest": "^29.7.0",
         "tsup": "^8.2.4"
     }
 }

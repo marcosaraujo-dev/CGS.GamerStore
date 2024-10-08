@@ -38,15 +38,13 @@ export default function Rodape() {
                     </div>
                     <div className="flex flex-col md:flex-row items-center gap-1.5 text-sm text-zinc-500">
                         <div className="flex gap-1.5">
-                            <span>Feito por</span>
-                            <span>Marcos Araujo</span>
+                            <span>Feito com</span>
+                            <span>❤️</span>
                             <span>em {new Date().getFullYear()}</span>
-                            <span>No treinamento FormacaoDev - Cod3r</span>
                         </div>
                         <span className="hidden md:inline-block">-</span>
                         <span>Todos os direitos reservados</span>
                     </div>
-
                 </div>
             </div>
         </footer>

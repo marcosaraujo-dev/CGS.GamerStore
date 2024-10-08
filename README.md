@@ -33,6 +33,13 @@ Tela onde exibe os dados de um produto específico (especificação, valor, aval
   ![detalhe](images/Demo/02-DetalheProduto.PNG)
   ![Avaliacao](images/Demo/03-Avaliacoes.PNG)
 
+### Carrinho
+Tela onde exibe os itens adicionados no carrinho
+![carrinho](images/Demo/04-Carrinho.PNG)
+
+### Fechamento da Compra
+Tela onde mostra os campos para preenchimento dps dados para finalizaçao da compra
+![fechamento](images/Demo/05-FinalizacaoCompra.PNG)
 <br/>
 <p align="right">(<a href="#top">back to top</a>)</p>
 

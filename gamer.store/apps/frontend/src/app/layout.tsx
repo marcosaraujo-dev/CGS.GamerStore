@@ -8,7 +8,7 @@ const font = Montserrat({
 
 export const metadata: Metadata = {
     title: 'Gam3r.store',
-    description: 'A versão mais básica da loja de jogos',
+    description: 'Versão completa da loja Gam3r.store',
 }
 
 export default function RootLayout({
