@@ -20,7 +20,7 @@
 
 Projeto criado para aprendizagem da linguagem Typescript e React, seguindo aulas da plataforma FormacaoDev.
 Com o intuito de aprendizado não foram feitas modificações nas funcionalidades além do que foi apresentado no treinamento.
-O intuito do projeto foi criar uma loja virtual de produtos Gamers
+O objetivo do projeto foi criar uma loja virtual de produtos Gamers.
 
 
 ### Listagem de Produtos
